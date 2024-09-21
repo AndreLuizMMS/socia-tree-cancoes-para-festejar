@@ -54,11 +54,16 @@ export default {
 </script>
 
 <style lang="scss">
-@import url(https://db.onlinewebfonts.com/c/628e4b3a4d1bbe699a9948f5aa0de8cf?family=Recta+W01+Light+Condensed);
+@font-face {
+  font-family: 'CustomFont';
+  src: url('@/assets/fonts/custom-font.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
 * {
   // border: black 1px solid;
   margin: 0;
-  font-family: Arial Black,Arial Bold,Gadget,sans-serif; 
+  font-family: 'Belanosima', sans-serif;
 }
 
 .outside {

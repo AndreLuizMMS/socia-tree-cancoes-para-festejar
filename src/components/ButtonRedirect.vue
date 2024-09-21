@@ -27,7 +27,7 @@
         <img src="../assets/Aula_online.png" alt="button image" />
       </div>
       <div class="info-container">
-        <span>Agende sua Aula On-line 🎶</span>
+        <span>Agende sua Aula On-line</span>
       </div>
     </div>
   </a>
