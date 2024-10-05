@@ -10,7 +10,7 @@
     </div>
   </a>
 
-  <a :href="urlRedirect" class="link-wrapper">
+  <!-- <a :href="urlRedirect" class="link-wrapper">
     <div class="button-wrapper">
       <div class="image-container">
         <img src="../assets/Aula_presencial.png" alt="button image" />
@@ -19,9 +19,9 @@
         <span>Agende sua Aula Presencial</span>
       </div>
     </div>
-  </a>
+  </a> -->
 
-  <a :href="urlRedirect" class="link-wrapper">
+  <!-- <a :href="urlRedirect" class="link-wrapper">
     <div class="button-wrapper">
       <div class="image-container">
         <img src="../assets/Aula_online.png" alt="button image" />
@@ -30,9 +30,9 @@
         <span>Agende sua Aula On-line</span>
       </div>
     </div>
-  </a>
+  </a> -->
 
-  <a :href="urlRedirect" class="link-wrapper">
+  <!-- <a :href="urlRedirect" class="link-wrapper">
     <div class="button-wrapper">
       <div class="image-container">
         <img src="../assets/log_cancoes.png" alt="button image" />
@@ -43,7 +43,7 @@
         <span>Canções para celebrar</span>
       </div>
     </div>
-  </a>
+  </a> -->
 </template>
 
 <script>

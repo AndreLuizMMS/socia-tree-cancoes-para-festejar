@@ -80,6 +80,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 40rem;
 }
 
 .main-card {
